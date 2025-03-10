@@ -1,0 +1,5 @@
+
+[Plugin]
+  Author = "k4ties"
+  Description = "This example will show you your cps in tip."
+  Name = "CPS example"

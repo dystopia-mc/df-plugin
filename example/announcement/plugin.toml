@@ -1,0 +1,5 @@
+
+[Plugin]
+  Author = "k4ties"
+  Description = "This example will send an ordered message every 10 seconds to global chat."
+  Name = "Announcement example"

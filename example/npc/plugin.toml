@@ -1,0 +1,5 @@
+
+[Plugin]
+  Author = "k4ties"
+  Description = "This example allows you to create punchable npc"
+  Name = "NPC example"

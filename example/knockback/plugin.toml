@@ -1,0 +1,5 @@
+
+[Plugin]
+  Author = "k4ties"
+  Description = "This example allows you to easily adjust knockback"
+  Name = "Knockback example"

@@ -1,0 +1,5 @@
+
+[Plugin]
+  Author = "k4ties"
+  Description = "This example shows that you can work with packets in df-plugin"
+  Name = "Packets example"
